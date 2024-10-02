@@ -1,5 +1,6 @@
-Common Questions for MCI
-Tell me about yourself 
+1Common Questions for MCI
+
+2Tell me about yourself 
 What is the difference between merge and rebase
 What are the branching methods
 Explain project 
