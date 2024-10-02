@@ -8,7 +8,7 @@ What is the difference between CI and CD , deployment and delivery
 Explain ec2 instance and other services in AWS
 What is the difference between s3 and other storage services
 What are the storage services available in aws
-What are the commands available in docker 
+What are the commands available in docker  
 What is Dev-ops
 What is the difference between merge and rebase
 What are the branching methods
